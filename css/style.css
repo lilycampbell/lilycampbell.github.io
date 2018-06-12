@@ -1,8 +1,10 @@
 body {
-  background-color:#1f7f1;
+  background-color:#ffd6e7;
   font-size: 40px;
   border: 10px;
-  font-family: ;
+  font-family:verdana;
 }
 
+div 
+{border-style:solid;}
 
